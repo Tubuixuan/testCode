@@ -64,7 +64,6 @@ function App() {
     </div>
   );
 }
-
-<h1>Bổ sung mới đoạn code 1</h1>;
-
+//Xóa đoạn code và thêm đoạn code khác
+<h2>Đoạn code commit 2</h2>;
 export default App;
